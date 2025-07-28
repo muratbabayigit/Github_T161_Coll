@@ -6,6 +6,7 @@ public class Ortak {
         System.out.println("buralar yeşillendi");
         System.out.println("Arnavut! VOTKAMLA ERİĞİ ÇALIŞTIR");
         System.out.println("buralar karışacak vaziyet alın");
+        System.out.println("sakın main branch de göndermeyin");
     }
 
 }
